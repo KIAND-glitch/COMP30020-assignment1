@@ -6,7 +6,7 @@ The program implements a fill-in puzzle solver, which takes a Puzzle and a WordL
 
 # Usage
 Load up SWI Prolog and load in the test_cases.pl file with: `[test_cases].`.
-Run tests by typing `test(N)` where is N is the test numbe, and pressing enter/return.
+Run tests by typing `test(N)` where is N is the test number, and pressing enter/return.
 
 # Game Description
 A fill-in puzzle (sometimes called a fill-it-in) is like a crossword puzzle, except that instead of being given obscure clues telling us which words go where, you are given a list of all the words to place in the puzzle, but not told where they go.
